@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>220219</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/updatelist.txt</updateurl>
+<message>Initial plugin version</message>
+</version>

@@ -1,0 +1,6 @@
+recentdecks.txt
+*.dek
+saved/*
+.idea
+*.iml
+

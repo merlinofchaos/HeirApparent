@@ -1,0 +1,70 @@
+Name	Set	ImageFile	Type	Quantity
+Prince Nobali	basic	prince_nobali.png	prince	1
+Prince Anolos	basic	prince_anolos.png	prince	1
+Prince Forgas	basic	prince_forgas.png	prince	1
+Prince Ghesaer	basic	prince_ghesaer.png	prince	1
+Prince Nier	basic	prince_nier.png	prince	1
+Johann TLor	basic	johann_tlor.png	character	1
+Turia Salean	basic	turia_salean.png	character	1
+Karrawen	basic	karrawen.png	character	1
+Areide	basic	areide.png	character	1
+Jerov Peinn	basic	jerov_peinn.png	character	1
+Tasse Hautha	basic	tasse_hautha.png	character	1
+Rheis Pruand	basic	rheis_pruand.png	character	1
+Lady Aerac Garard	basic	lady_aerac_garard.png	character	1
+Sir Pion Halani	basic	sir_pion_halani.png	character	1
+Sir Mathes Havion	basic	sir_mathes_havion.png	character	1
+Sir Damos Temastus	basic	sir_damos_temastus.png	character	1
+Azahor Tayja	basic	azahor_tayja.png	character	1
+Franja Semn	basic	franja_semn.png	character	1
+Fevell Mion	basic	fevell_mion.png	character	1
+Stomar Verdus	basic	stomar_verdus.png	character	1
+Malani Vargion	basic	malani_vargion.png	character	1
+Anata Hoblanus	basic	anata_hoblanus.png	character	1
+Uyed Thoklaw	basic	uyed_thoklaw.png	character	1
+Kott Talaer	basic	kott_talaer.png	character	1
+Atejebeh	basic	atejebeh.png	character	1
+Thad	basic	thad.png	character	1
+Pontae	basic	pontae.png	character	1
+Mnolos	basic	mnolos.png	character	1
+Vayn	basic	vayn.png	character	1
+Drusk	basic	drusk.png	character	1
+Kabreh	basic	kabreh.png	character	1
+Ghalos	basic	ghalos.png	character	1
+Borden Zaheed	basic	borden_zaheed.png	character	1
+Abethe Ushuyt	basic	abethe_ushuyt.png	character	1
+Atayal Silan	basic	atayal_silan.png	character	1
+Disgrace	basic	disgrace.png	event	2
+Gifts for the King	basic	gifts_for_the_king.png	event	1
+Fencing Competition	basic	fencing_competition.png	event	1
+Joust	basic	joust.png	event	1
+Archery Competition	basic	archery_competition.png	event	1
+Tax Time	basic	tax_time.png	event	2
+Palace Intrigue	basic	palace_intrigue.png	event	3
+An Appeal to the King	basic	an_appeal_to_the_king.png	event	1
+Invasion	basic	invasion.png	event	5
+Acquisition	basic	acquisition.png	event	4
+Bandit Attack	basic	bandit_attack.png	event	4
+Grand Melee	basic	grand_melee.png	event	2
+The Peasants Opinion	basic	the_peasants_opinion.png	effect	3
+The Nobility Speaks	basic	the_nobility_speaks.png	effect	3
+The Kings Word	basic	the_kings_word.png	effect	1
+Surprising Reslience	basic	surprising_reslience.png	effect	1
+Storms	basic	storms.png	effect	2
+Actions Speak Louder...	basic	actions_speak_louder.png	effect	4
+The Pen is Mightier	basic	the_pen_is_mightier.png	effect	4
+Distracted	basic	distracted.png	effect	3
+More Pressing Matters	basic	more_pressing_matters.png	effect	4
+Execution	basic	execution.png	effect	1
+The Fight Of Their Life	basic	the_fight_of_their_life.png	effect	3
+Stolen Credit	basic	stolen_credit.png	effect	3
+Assigned Blame	basic	assigned_blame.png	effect	3
+You Insult My Honor	basic	you_insult_my_honor.png	effect	5
+Assassination	basic	assassination.png	effect	2
+Enchanted Long Sword	basic	enchanted_long_sword.png	effect	2
+Enchanted Great Sword	basic	enchanted_great_sword.png	effect	1
+Enchanted Short Bow	basic	enchanted_short_bow.png	effect	2
+Enchanted Long Bow	basic	enchanted_long_bow.png	effect	1
+Finery	basic	finery.png	effect	4
+Ring of Allure	basic	ring_of_allure.png	effect	1
+Chest of Gold	basic	chest_of_gold.png	effect	2

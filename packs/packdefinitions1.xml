@@ -1,0 +1,105 @@
+<packdefinitions version="1.0">
+
+    <pack>
+        <packtitle>Basic Princes</packtitle>
+        <packcommoncrit>
+            <field>Type</field>
+            <eval>IS</eval>
+            <data>prince</data>
+        </packcommoncrit>
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>basic</data>
+        </packcommoncrit>
+        <chance>
+            <kind><qty>5</qty></kind>
+        </chance>
+    </pack>
+
+    <pack>
+        <packtitle>Basic Characters</packtitle>
+        <packcommoncrit>
+            <field>Type</field>
+            <eval>IS</eval>
+            <data>character</data>
+        </packcommoncrit>
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>basic</data>
+        </packcommoncrit>
+        <chance>
+            <kind><qty>30</qty></kind>
+        </chance>
+    </pack>
+    
+    <pack>
+        <packtitle>Basic Events</packtitle>
+        <packdoubles>yes</packdoubles>
+        <packcommoncrit>
+            <field>Type</field>
+            <eval>IS</eval>
+            <data>event</data>
+        </packcommoncrit>
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>basic</data>
+        </packcommoncrit>
+        <chance>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Acquisition</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>An Appeal to the King</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Archery Competition</data></crit></kind>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Bandit Attack</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Disgrace</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fencing Competition</data></crit></kind>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Gifts for the King</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Grand Melee</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>Invasion</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Joust</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Palace Intrigue</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Tax Time</data></crit></kind>
+        </chance>
+    </pack>
+
+    <pack>
+        <packtitle>Basic Actions</packtitle>
+        <packdoubles>yes</packdoubles>
+        <packcommoncrit>
+            <field>Type</field>
+            <eval>IS</eval>
+            <data>effect</data>
+        </packcommoncrit>
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>basic</data>
+        </packcommoncrit>
+        <chance>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Actions Speak Louder...</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Assassination</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Assigned Blame</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Chest of Gold</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Distracted</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Enchanted Great Sword</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Enchanted Long Sword</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Enchanted Long Bow</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Enchanted Short Bow</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Execution</data></crit></kind>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Finery</data></crit></kind>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>More Pressing Matters</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Ring of Allure</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Stolen Credit</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Storms</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Surprising Reslience</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>The Fight Of Their Life</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>The Kings Word</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>The Nobility Speaks</data></crit></kind>
+            <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>The Peasants Opinion</data></crit></kind>
+            <kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>The Pen is Mightier</data></crit></kind>
+            <kind><qty>5</qty><crit><field>Name</field><eval>IS</eval><data>You Insult My Honor</data></crit></kind>
+        </chance>
+    </pack>
+    
+</packdefinitions>

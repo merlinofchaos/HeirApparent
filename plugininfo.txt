@@ -1,0 +1,208 @@
+<plugin>
+    <playerstat>
+        <label>Favor</label>
+    </playerstat>
+
+    <deckzone>
+        <label>Prince</label>
+        <gamezonetoloadto>Prince</gamezonetoloadto>
+        <shuffle>yes</shuffle>
+    </deckzone>
+
+    <deckzone>
+        <label>Character</label>
+        <gamezonetoloadto>Character</gamezonetoloadto>
+        <shuffle>yes</shuffle>
+    </deckzone>
+
+    <deckzone>
+        <label>Event</label>
+        <gamezonetoloadto>Event</gamezonetoloadto>
+        <shuffle>yes</shuffle>
+    </deckzone>
+
+    <deckzone>
+        <label>Action</label>
+        <gamezonetoloadto>Action</gamezonetoloadto>
+        <shuffle>yes</shuffle>
+    </deckzone>
+
+    <gamezone>
+        <label>Hand</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>no</visibletoothers>
+    </gamezone>
+
+    <gamezone>
+        <label>Action</label>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Action Discard</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>yes</visibletoothers>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Prince</label>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Character</label>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Character Discard</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>yes</visibletoothers>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Character Killed</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>yes</visibletoothers>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Event</label>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <gamezone>
+        <label>Event Discard</label>
+        <visibletoowner>no</visibletoowner>
+        <visibletoothers>no</visibletoothers>
+        <isshared>yes</isshared>
+    </gamezone>
+
+    <phase>
+        <label>Draw</label>
+    </phase>
+    <phase>
+        <label>Action</label>
+    </phase>
+    <phase>
+        <label>Event</label>
+    </phase>
+    <phase>
+        <label>Discard</label>
+    </phase>
+    <phase>
+        <label>Unturn</label>
+    </phase>
+
+    <generalfunction>
+        <label>Draw Prince</label>
+        <kind>TRANSFERCARD</kind>
+        <sourceowner>shared</sourceowner>
+        <sourcegamezone>Prince</sourcegamezone>
+        <destinationgamezone>Hand</destinationgamezone>
+        <includeasbutton>yes</includeasbutton>
+    </generalfunction>
+    <generalfunction>
+        <label>Draw Action</label>
+        <sourceowner>shared</sourceowner>
+        <kind>TRANSFERCARD</kind>
+        <sourcegamezone>Action</sourcegamezone>
+        <destinationgamezone>Hand</destinationgamezone>
+        <includeasbutton>yes</includeasbutton>
+    </generalfunction>
+    <generalfunction>
+        <label>Play Character</label>
+        <kind>TRANSFERCARD</kind>
+        <sourceowner>shared</sourceowner>
+        <sourcegamezone>Character</sourcegamezone>
+        <destinationowner>table</destinationowner>
+        <destinationgamezone>table</destinationgamezone>
+        <includeasbutton>yes</includeasbutton>
+    </generalfunction>
+    <generalfunction>
+        <label>Play Event</label>
+        <kind>TRANSFERCARD</kind>
+        <sourceowner>shared</sourceowner>
+        <sourcegamezone>Event</sourcegamezone>
+        <destinationowner>table</destinationowner>
+        <destinationgamezone>table</destinationgamezone>
+        <includeasbutton>yes</includeasbutton>
+    </generalfunction>
+    <generalfunction>
+        <label>Discard Event</label>
+        <kind>TRANSFERCARD</kind>
+        <sourceowner>shared</sourceowner>
+        <sourcegamezone>Event</sourcegamezone>
+        <destinationowner>shared</destinationowner>
+        <destinationgamezone>Event Discard</destinationgamezone>
+        <includeasbutton>yes</includeasbutton>
+    </generalfunction>
+    <generalfunction>
+        <label>Unturn All</label>
+        <kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+        <includeasbutton>yes</includeasbutton>
+    </generalfunction>
+    <cardfunction>
+        <label>Turn</label>
+        <kind>MAKERIGHT90DEGREES</kind>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>Unturn</label>
+        <kind>MAKERIGHT0DEGREES</kind>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>+Support</label>
+        <kind>ADDCOUNTER</kind>
+        <color>green</color>
+        <PositionX>1</PositionX>
+        <PositionY>.2</PositionY>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>-Support</label>
+        <kind>REMOVECOUNTER</kind>
+        <color>green</color>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>+Opposition</label>
+        <kind>ADDCOUNTER</kind>
+        <color>red</color>
+        <PositionX>1</PositionX>
+        <PositionY>.8</PositionY>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>-Opposition</label>
+        <kind>REMOVECOUNTER</kind>
+        <color>red</color>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>Edit Note</label>
+        <kind>EDITNOTE</kind>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>Reset</label>
+        <kind>CLEARCARD</kind>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <cardfunction>
+        <label>Control</label>
+        <kind>CHANGEOWNER</kind>
+        <includeasbutton>yes</includeasbutton>
+    </cardfunction>
+    <generalfunction>
+        <label>Next Turn</label>
+        <kind>NEXTTURN</kind>
+    </generalfunction>
+    <definition>
+        <kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+    </definition>
+</plugin>
