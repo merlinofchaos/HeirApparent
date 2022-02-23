@@ -4,8 +4,8 @@ plugins/heir/version.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApp
 plugins/heir/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/pluginpreferences.txt	373834
 plugins/heir/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/packs/packdefinitions1.xml	437173
 plugins/heir/sets/basic.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/basic.txt	301830
-plugins/heir/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/general/cardback.jpg	50585
-plugins/heir/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/general/spawned.jpg	275667
-plugins/heir/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/CardURLFiles1.txt	888497
+plugins/heir/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/general/cardback.jpg	50585
+plugins/heir/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/general/spawned.jpg	275667
+plugins/heir/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/CardImageURLs1.txt	888497
 CardURLFiles:
 CardImageURLs1.txt
