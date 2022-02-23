@@ -7,7 +7,15 @@ plugins/heir/sets/basic.txt	https://raw.githubusercontent.com/merlinofchaos/Heir
 plugins/heir/plugins/heir/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/general/cardback.jpg	0
 plugins/heir/plugins/heir/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/general/spawned.jpg	0
 plugins/heir/CardImageURLs1.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/CardImageURLs1.txt	888497
-plugins/heir/sets/setimages/basic/atayal_silan.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/atayal_silan.png	-76480
+plugins/heir/sets/setimages/basic/abethe_ushuyt.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/abethe_ushuyt.png
+plugins/heir/sets/setimages/basic/acquisition.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/acquisition.png
+plugins/heir/sets/setimages/basic/actions_speak_louder.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/actions_speak_louder.png
+plugins/heir/sets/setimages/basic/an_appeal_to_the_king.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/an_appeal_to_the_king.png
+plugins/heir/sets/setimages/basic/anata_hoblanus.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/anata_hoblanus.png
+plugins/heir/sets/setimages/basic/archery_competition.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/archery_competition.png
+plugins/heir/sets/setimages/basic/areide.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/areide.png
+plugins/heir/sets/setimages/basic/assassination.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/assassination.png
+plugins/heir/sets/setimages/basic/assigned_blame.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/assigned_blame.pngplugins/heir/sets/setimages/basic/atayal_silan.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/atayal_silan.png	-76480
 plugins/heir/sets/setimages/basic/atejebeh.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/atejebeh.png	-75028
 plugins/heir/sets/setimages/basic/azahor_tayja.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/azahor_tayja.png	-123830
 plugins/heir/sets/setimages/basic/bandit_attack.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/bandit_attack.png	-107580
