@@ -18,8 +18,8 @@ basic/disgrace.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/
 basic/distracted.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/distracted.png
 basic/drusk.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/drusk.png
 basic/enchanted_great_sword.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/enchanted_great_sword.png
-basic/enchanted_long_bow.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/enchanted_long_bow.png
-basic/enchanted_long_sword.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/enchanted_long_sword.png
+basic/enchanted_long_bow.png	https://raw.githubusercontent.com/merlinofchaos/H`eirApparent/master/sets/setimages/basic/enchanted_long_bow.png
+basic/enchanted_long_sword.png	https://raw.githubusercontent.com/merlinofchaos/H`eirApparent/master/sets/setimages/basic/enchanted_long_sword.png
 basic/enchanted_short_bow.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/enchanted_short_bow.png
 basic/execution.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/execution.png
 basic/fencing_competition.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/master/sets/setimages/basic/fencing_competition.png
