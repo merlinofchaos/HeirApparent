@@ -1,3 +1,4 @@
+CardImageURLs:
 basic/abethe_ushuyt.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/sets/setimages/basic/abethe_ushuyt.png
 basic/acquisition.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/sets/setimages/basic/acquisition.png
 basic/actions_speak_louder.png	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/sets/setimages/basic/actions_speak_louder.png
