@@ -3,4 +3,4 @@ recentdecks.txt
 saved/*
 .idea
 *.iml
-
+.DS_Store
