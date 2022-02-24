@@ -35,7 +35,7 @@ Borden Zaheed	basic	borden_zaheed.png	character	1
 Abethe Ushuyt	basic	abethe_ushuyt.png	character	1
 Atayal Silan	basic	atayal_silan.png	character	1
 Disgrace	basic	disgrace.png	event	2
-Gifts for the King	basic	gifts_for_the_king.png	event	1
+Gifts for the King	basic	gifts_for_the_king.png	event	4
 Fencing Competition	basic	fencing_competition.png	event	1
 Joust	basic	joust.png	event	1
 Archery Competition	basic	archery_competition.png	event	1
