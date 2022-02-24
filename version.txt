@@ -2,5 +2,5 @@
 <lastupdateYYMMDD>220224</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/updatelist.txt</updateurl>
-<message>Fix card url file.</message>
+<message>Update to 2.0.1</message>
 </version>

@@ -1,6 +1,6 @@
 heir	02-24-22
 plugins/heir/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/plugininfo.txt	471899
-plugins/heir/version.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/version.txt	29373
+plugins/heir/version.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/version.txt	28912
 plugins/heir/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/pluginpreferences.txt	373834
 plugins/heir/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/sets/setimages/general/cardback.jpg	50585
 plugins/heir/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/HeirApparent/main/sets/setimages/general/spawned.jpg	275667
